@@ -1,1 +1,1 @@
-curl https://hsm.one/config/.ssh > ~/.ssh
+curl https://hsm.one/config/ssh > ~/.ssh
